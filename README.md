@@ -1,23 +1,22 @@
-# Virtual Pet Keychain
+# Retro Gaming Keychain
 
-Tamagotchi is so popular right now that almost everyone got one, however it was too pricey for me to actually buy one. Hence, I tried to DIY one and customize with my own ideas.
+Tired of mindless scrolling through phones for entertainment? Get yourself a retro gaming keychain! It's a small keychain that allows you to run simple game like flappy bird, tetris, retro snake ......
 
 ## CAD Model:
 Both case are fit together via simple snap click joints.
 It has 3 separate printed pieces. The base, the top cover and a case for the rotary encoder.
 
-<img width="569" height="507" alt="Screenshot 2026-02-16 at 2 54 13 PM" src="https://github.com/user-attachments/assets/24e02540-e4aa-42d4-a4a0-49e80db8294c" />
-<img width="600" height="543" alt="Screenshot 2026-02-16 at 2 54 41 PM" src="https://github.com/user-attachments/assets/e15aff1e-e13f-4114-b899-7bd231488a51" />
+<img width="523" height="425" alt="Screenshot 2026-05-18 at 8 04 15 PM" src="https://github.com/user-attachments/assets/1f497217-8ebb-4d3f-9344-1dfe63b3fa3a" />
+<img width="523" height="525" alt="Screenshot 2026-05-18 at 8 05 04 PM" src="https://github.com/user-attachments/assets/5e2717f6-1ce1-457f-ba7c-a9c968509df4" />
 <img width="449" height="486" alt="Screenshot 2026-02-11 at 2 11 14 PM" src="https://github.com/user-attachments/assets/ec0fb24f-fcb6-460d-a091-fec24e67106e" />
 <img width="449" height="486" alt="Screenshot 2026-02-11 at 2 11 39 PM" src="https://github.com/user-attachments/assets/3eebbe7b-6634-470a-a9e2-437c95b39638" />
 
 Made in Fusion360.Liz
 
 ## How to play:
-Feed your pet when hungry
-Play with your pet when it's bored
-Ensure it have enough sleep time everyday
-Watch your pet evolve from egg into adult!
+Power on.
+Pick a game to play.
+Enjoy!
 
 ## Wiring diagram
 
